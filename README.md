@@ -1,6 +1,4 @@
-# Repo to learn Docker with examples.
-
-## If you found this repo useful, give it a STAR 🌠
+# Learn Containerization and Docker with examples.
 
 ## What is a container ?
 
@@ -356,4 +354,3 @@ The push refers to repository [docker.io/revathi358/my-first-docker-image]
 latest: digest: sha256:fff5c32716f9619a1f8710277ee62c8e14d51fd39aa8201bd1f31b1feb16e41f size: 1155
 ```
 
-### You must be feeling like a champ already 
