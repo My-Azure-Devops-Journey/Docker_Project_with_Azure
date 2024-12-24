@@ -1,1 +1,0 @@
-# Docker_Project_with_Azure
